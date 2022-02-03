@@ -4,7 +4,7 @@
 
     <groupId>com.brihaspathee.quotes</groupId>
     <artifactId>dog-related-quotes</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Dog related quotes</name>
     <description>Quotes that talk about dogs</description>
@@ -27,7 +27,7 @@
         <!--        <developerConnection>scm:git:ssh://github.com:Brihaspathee/arithmetic.git</developerConnection>-->
         <developerConnection>scm:git:git@github.com:Brihaspathee/dog-related-quotes.git</developerConnection>
         <url>scm:git:http://github.com/Brihaspathee/dog-related-quotes</url>
-        <tag>1.0</tag>
+        <tag>1.0.0</tag>
     </scm>
     <developers>
         <developer>
